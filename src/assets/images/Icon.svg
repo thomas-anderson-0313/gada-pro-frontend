@@ -1,0 +1,23 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.6" height="37.746" viewBox="0 0 34.6 37.746">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M14.936,37.62a1.524,1.524,0,0,1-.914-1.588l1.534-12.164H1.538a1.538,1.538,0,0,1-1.393-.879,1.512,1.512,0,0,1,.211-1.622L17.868.549A1.548,1.548,0,0,1,19.663.126a1.522,1.522,0,0,1,.914,1.588L19.043,13.879H33.061a1.542,1.542,0,0,1,1.394.878,1.515,1.515,0,0,1-.212,1.624L16.73,37.2a1.549,1.549,0,0,1-1.795.423Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangular" width="34.6" height="37.746" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <path id="Shape-2" data-name="Shape" d="M14.936,37.62a1.524,1.524,0,0,1-.914-1.588l1.534-12.164H1.538a1.538,1.538,0,0,1-1.393-.879,1.512,1.512,0,0,1,.211-1.622L17.868.549A1.548,1.548,0,0,1,19.663.126a1.522,1.522,0,0,1,.914,1.588L19.043,13.879H33.061a1.542,1.542,0,0,1,1.394.878,1.515,1.515,0,0,1-.212,1.624L16.73,37.2a1.549,1.549,0,0,1-1.795.423Z" transform="translate(0)" fill="#fff"/>
+  <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(0)" clip-path="url(#clip-path)">
+    <g id="_Color" data-name="↳🎨Color" transform="translate(0)">
+      <g id="Group_1" data-name="Group 1">
+        <rect id="Rectangular-2" data-name="Rectangular" width="34.6" height="37.746" fill="#fff"/>
+        <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path-2)">
+          <g id="_State" data-name="↳⚙️State">
+            <rect id="Rectangular-3" data-name="Rectangular" width="34.6" height="37.746" fill="#fff" opacity="0.1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

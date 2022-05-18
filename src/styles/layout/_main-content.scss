@@ -1,0 +1,40 @@
+/*Main Content Styles*/
+.app-main-content {
+  flex: 1;
+  width: 100%;
+}
+
+.app-wrapper {
+  padding: 30px;
+  width: 100%;
+
+  @media screen and (max-width: 575px) {
+    padding: 20px;
+    .back-to-top-inner {
+      width: 40px;
+      height: 40px;
+    }
+  }
+}
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 0;
+  z-index: 99;
+  display: none;
+}
+.back-to-top-inner:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+.back-to-top-inner {
+  background-color: #0080ff;
+  display: inline-flex;
+  color: #ffff;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  transition: all 0.3s linear;
+}

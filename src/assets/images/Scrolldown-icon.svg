@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.948" height="51.811" viewBox="0 0 33.948 51.811">
+  <g id="Scrolldown-icon" transform="translate(26.221 -0.418)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-25.721 0.918)" opacity="0.33">
+      <path id="Shape" d="M0,38.9V11.909A11.922,11.922,0,0,1,11.909,0h9.13A11.922,11.922,0,0,1,32.948,11.909V38.9A11.922,11.922,0,0,1,21.039,50.811h-9.13A11.922,11.922,0,0,1,0,38.9Z" transform="translate(0)" fill="none" stroke="#232323" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle" width="2.562" height="8.967" rx="1" transform="translate(15.193 12.595)" fill="#232323"/>
+    </g>
+    <path id="Path" d="M5.987,5.987,1.3,10.671A.763.763,0,0,1,.223,9.592L4.368,5.447.224,1.3A.763.763,0,0,1,1.3.223L5.987,4.908a.763.763,0,0,1,0,1.079Z" transform="translate(-3.8 34.599) rotate(90)" fill="#232323" stroke="#232323" stroke-width="1"/>
+  </g>
+</svg>
